@@ -1,0 +1,42 @@
+# macOS 系統文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python 虛擬環境
+venv/
+ENV/
+*.pyc
+*.pyo
+__pycache__/
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# Django
+*.log
+*.sqlite3
+media/
+staticfiles/
+
+# 本地開發設定
+.env
+config/settings/local.py
+config/.env
+
+# VSCode 設定檔
+.vscode/
+
+# PyCharm 設定檔
+.idea/
+
+# Celery
+celerybeat-schedule
+
+# Migrations（選擇性忽略）
+*/migrations/*.pyc
+*/migrations/__pycache__/
+

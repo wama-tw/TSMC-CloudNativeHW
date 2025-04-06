@@ -1,0 +1,20 @@
+conda create -n django-learn python=3.12
+source activate django-learn
+pip install django
+python -m django --version
+django-admin startproject django101
+cd django101
+python manage.py startapp myapp
+# Add urls & views
+python manage.py runserver
+
+# Connect to RDS PostgreSQL
+# Create RDS PostgreSQL on AWS
+pip install psycopg2-binary
+# Change settings
+pip install python-dotenv
+# Make change to DB schema
+python manage.py makemigrations
+python manage.py migrate
+
+python manage.py createsuperuser
