@@ -1,7 +1,7 @@
 > Revised from [My Django + AWS RDS PostgreSQL Learning Project](https://github.com/wama-tw/Django-Learn)
 > 這是一份關於 GitHub Action 的作業 @台積電在台大上的課「雲原生應用程式開發」
 > 作業要求
-> ![Homework Requirement](image.png)
+> ![Homework Requirement](HW_requirement.png)
 
 # Django 與快速入門指南
 
