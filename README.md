@@ -2,6 +2,8 @@
 > 這是一份關於 GitHub Action 的作業 @台積電在台大上的課「雲原生應用程式開發」
 > 作業要求
 > ![Homework Requirement](HW_requirement.png)
+![Django Tests on hw1-p](https://github.com/wama-tw/TSMC-CloudNativeHW/actions/workflows/django-test.yml/badge.svg?branch=hw1-p)
+![Django Tests on hw1-f](https://github.com/wama-tw/TSMC-CloudNativeHW/actions/workflows/django-test.yml/badge.svg?branch=hw1-f)
 
 # Django 與快速入門指南
 
