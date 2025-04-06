@@ -3,7 +3,7 @@
 > 作業要求
 > ![Homework Requirement](HW_requirement.png)
 
-![Django Tests](https://github.com/wama-tw/Django-Learn/actions/workflows/django-test.yml/badge.svg)
+![Django Tests](https://github.com/wama-tw/TSMC-CloudNativeHW/actions/workflows/django-test.yml/badge.svg)
 
 # Django 與快速入門指南
 
