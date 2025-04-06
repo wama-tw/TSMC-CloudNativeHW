@@ -3,6 +3,9 @@
 > 作業要求
 > ![Homework Requirement](HW_requirement.png)
 
+![Django Tests on hw1-p](https://github.com/wama-tw/TSMC-CloudNativeHW/actions/workflows/django-test.yml/badge.svg?branch=hw1-p)
+![Django Tests on hw1-f](https://github.com/wama-tw/TSMC-CloudNativeHW/actions/workflows/django-test.yml/badge.svg?branch=hw1-f)
+
 # Django 與快速入門指南
 
 本文檔提供了 Django 項目創建和配置的步驟指南。這將幫助團隊成員快速了解環境設置和當前進度。
