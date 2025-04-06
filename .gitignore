@@ -40,3 +40,5 @@ celerybeat-schedule
 */migrations/*.pyc
 */migrations/__pycache__/
 
+# pytest
+.pytest_cache/

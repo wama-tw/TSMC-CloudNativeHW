@@ -3,6 +3,8 @@
 > 作業要求
 > ![Homework Requirement](HW_requirement.png)
 
+![Django Tests](https://github.com/wama-tw/Django-Learn/actions/workflows/django-test.yml/badge.svg)
+
 # Django 與快速入門指南
 
 本文檔提供了 Django 項目創建和配置的步驟指南。這將幫助團隊成員快速了解環境設置和當前進度。
