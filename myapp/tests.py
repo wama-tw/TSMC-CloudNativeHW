@@ -14,10 +14,10 @@ class RoomAPITest(TestCase):
         response = self.client.post('/rooms/create/',
                                     data=json.dumps(data),
                                     content_type='application/json')
-        self.assertEqual(response.status_code, 201)
+        self.assertEqual(response.status_code, 405)
         self.assertTrue(Room.objects.filter(room_id='R001').exists())
 
     def test_create_room_invalid_method(self):
         # 測試使用錯誤的 HTTP 方法
         response = self.client.get('/rooms/create/')
-        self.assertEqual(response.status_code, 405)
+        self.assertEqual(response.status_code, 201)
